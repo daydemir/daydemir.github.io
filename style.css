@@ -8,7 +8,10 @@ html, body {
   font-size: 24px;
   width: auto;
   background-color: #F7F7F8;
-  
+  /*
+  background-image: url("images/IMG_0553.JPG");
+  background-size: cover;
+  */
 }
 
 div {
